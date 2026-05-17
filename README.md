@@ -2,14 +2,14 @@
 
 > Windows용 메신저 채팅 스크린샷 생성기 — 당근마켓 / 텔레그램 프리셋 / 라이트 다크 테마 / PNG 내보내기.
 
-[ReWorld](https://reworld.kr) 데스크톱 앱의 **release 배포 채널**입니다. 소스 코드는 별도 모노레포(`reworld-kr/ReWorld`)에서 관리되고, 이 repo는 빌드 산출물(`ChatCraft.exe`, NSIS installer, checksums)만 호스팅합니다.
+[ReWorld](https://reworld.kr) 데스크톱 앱의 **release 배포 채널**입니다. 소스 코드는 별도 모노레포(`reworld-kr/ReWorld`)에서 관리되고, 이 repo는 빌드 산출물(`chatcraft.exe`, NSIS installer, checksums)만 호스팅합니다.
 
 ## 다운로드
 
 [**최신 버전 다운로드 ↓**](https://github.com/reworld-kr/ChatCraft/releases/latest)
 
-- `ChatCraft.exe` — bare 실행 파일 (압축/설치 없이 즉시 실행)
-- `ChatCraft_Setup.exe` — NSIS 설치 마법사 (사용자 디렉터리에 설치, UAC 불필요)
+- `chatcraft.exe` — bare 실행 파일 (압축/설치 없이 즉시 실행)
+- `chatcraft_setup.exe` — NSIS 설치 마법사 (사용자 디렉터리에 설치, UAC 불필요)
 - `checksums.txt` — SHA-256 무결성 검증
 
 설치 후 자동 업데이트가 켜져 있어 새 버전 출시 시 다음 실행에 백그라운드 적용됩니다.
